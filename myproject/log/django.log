@@ -17,3 +17,4 @@ INFO 2024-02-01 19:31:38,339 autoreload 14388 14828 Watching for file changes wi
 INFO 2024-02-01 19:31:46,768 basehttp 14388 14568 "GET / HTTP/1.1" 200 630
 INFO 2024-02-01 19:31:54,390 basehttp 14388 18320 "GET / HTTP/1.1" 200 630
 INFO 2024-02-01 19:33:34,266 basehttp 14388 11748 "GET /about/ HTTP/1.1" 200 790
+INFO 2024-02-01 19:59:49,080 autoreload 17272 2664 Watching for file changes with StatReloader

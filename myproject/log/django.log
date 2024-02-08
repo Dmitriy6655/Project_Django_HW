@@ -1,0 +1,19 @@
+INFO 2024-02-01 19:22:28,484 autoreload 10452 10340 Watching for file changes with StatReloader
+INFO 2024-02-01 19:23:16,998 autoreload 10452 10340 C:\Users\“ËÏÓÙÂÈ\Desktop\TIMOFEY\”◊≈¡¿ GB\Python\—œ≈÷»¿À»«¿÷»ﬂ 2 „Ó‰\DJANGO\HW\myproject\hw1\views.py changed, reloading.
+INFO 2024-02-01 19:23:20,992 autoreload 13580 7660 Watching for file changes with StatReloader
+INFO 2024-02-01 19:24:33,816 basehttp 13580 17600 "GET / HTTP/1.1" 200 630
+INFO 2024-02-01 19:25:54,569 autoreload 13580 7660 C:\Users\“ËÏÓÙÂÈ\Desktop\TIMOFEY\”◊≈¡¿ GB\Python\—œ≈÷»¿À»«¿÷»ﬂ 2 „Ó‰\DJANGO\HW\myproject\hw1\views.py changed, reloading.
+INFO 2024-02-01 19:26:08,212 autoreload 4896 14568 Watching for file changes with StatReloader
+WARNING 2024-02-01 19:28:22,589 log 4896 17428 Not Found: /favicon.ico
+WARNING 2024-02-01 19:28:22,600 basehttp 4896 17428 "GET /favicon.ico HTTP/1.1" 404 2320
+INFO 2024-02-01 19:28:52,124 autoreload 4896 14568 C:\Users\“ËÏÓÙÂÈ\Desktop\TIMOFEY\”◊≈¡¿ GB\Python\—œ≈÷»¿À»«¿÷»ﬂ 2 „Ó‰\DJANGO\HW\myproject\hw1\views.py changed, reloading.
+INFO 2024-02-01 19:28:53,567 autoreload 12308 8404 Watching for file changes with StatReloader
+INFO 2024-02-01 19:28:53,883 basehttp 12308 14068 "GET / HTTP/1.1" 200 630
+INFO 2024-02-01 19:29:20,757 basehttp 12308 14068 "GET / HTTP/1.1" 200 630
+INFO 2024-02-01 19:31:29,392 autoreload 12308 8404 C:\Users\“ËÏÓÙÂÈ\Desktop\TIMOFEY\”◊≈¡¿ GB\Python\—œ≈÷»¿À»«¿÷»ﬂ 2 „Ó‰\DJANGO\HW\myproject\myproject\settings.py changed, reloading.
+INFO 2024-02-01 19:31:33,856 autoreload 10804 404 Watching for file changes with StatReloader
+INFO 2024-02-01 19:31:37,432 autoreload 10804 404 C:\Users\“ËÏÓÙÂÈ\Desktop\TIMOFEY\”◊≈¡¿ GB\Python\—œ≈÷»¿À»«¿÷»ﬂ 2 „Ó‰\DJANGO\HW\myproject\myproject\settings.py changed, reloading.
+INFO 2024-02-01 19:31:38,339 autoreload 14388 14828 Watching for file changes with StatReloader
+INFO 2024-02-01 19:31:46,768 basehttp 14388 14568 "GET / HTTP/1.1" 200 630
+INFO 2024-02-01 19:31:54,390 basehttp 14388 18320 "GET / HTTP/1.1" 200 630
+INFO 2024-02-01 19:33:34,266 basehttp 14388 11748 "GET /about/ HTTP/1.1" 200 790

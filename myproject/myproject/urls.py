@@ -1,26 +1,35 @@
 """
-URL configuration for myproject project.
+URL configuration for a django_shop project.
 
 The `urlpatterns` list routes URLs to views. For more information please see:
-    https://docs.djangoproject.com/en/5.0/topics/http/urls/
+    https://docs.djangoproject.com/en/4.2/topics/http/urls/
 Examples:
 Function views
-    1. Add an import:  from my_app import views
-    2. Add a URL to urlpatterns:  path('', views.home, name='home')
+    1. Add an import: from my_app import views
+    2. Add a URL to urlpatterns: path('', views.home, name='home')
 Class-based views
-    1. Add an import:  from other_app.views import Home
-    2. Add a URL to urlpatterns:  path('', Home.as_view(), name='home')
+    1. Add an import: from other_app.views import Home
+    2. Add a URL to urlpatterns: path('', Home.as_view(), name='home')
 Including another URLconf
     1. Import the include() function: from django.urls import include, path
-    2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
+    2. Add a URL to urlpatterns: path('blog/', include('blog.urls'))
 """
 from django.contrib import admin
 from django.urls import path, include
-from hw1 import views
+# from shop_app.views import test, main, contacts, client_goods
+from django.conf import settings  # new
+from django.conf.urls.static import static  # new
 
 urlpatterns = [
-    path('', views.index),
-    path('prefix/', include('hw1.urls')),
-    path('about/', views.about),
-
+    path('admin/', admin.site.urls),
+    path('', include('online_store.urls')),
+    # path('__debug__/', include("debug_toolbar.urls")),
+    # path('', include('shop.urls')),
+    # path('test/', test, name='test'),
+    # path('main/', main, name='main'),
+    # path('client_goods/', client_goods, name='client_goods'),
+    # path('contacts/', contacts, name='contacts'),
 ]
+
+if settings.DEBUG:  # new
+    urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

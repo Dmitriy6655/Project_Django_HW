@@ -133,6 +133,7 @@ def client_goods(request):
     text = f'{host}{path}'
     if request.method == "POST":
         client_id = request.POST['number']
+
         COUNT_DAYS7 = 7
         start = datetime.date.today() - datetime.timedelta(days=COUNT_DAYS7)
         orders7 = Order.objects.filter(client_id=client_id, create_at__gte=start)
@@ -143,9 +144,9 @@ def client_goods(request):
 
         COUNT_DAYS365 = 365
         start3 = datetime.date.today() - datetime.timedelta(days=COUNT_DAYS365)
-        client = Client.objects.get(id=client_id)
         orders365 = Order.objects.filter(client_id=client_id, create_at__gte=start3)
 
+        client = Client.objects.get(id=client_id)
         images = Goods.objects.all()
         url_path = f'{text}{client_id}'
         context = {
@@ -241,7 +242,7 @@ def client_goods365(request):
 def main(request):
     context = {
         'title': 'Главная страница',
-        'goods': Goods.objects.order_by('name', 'description')
+        'goods': Goods.objects.order_by('name', 'product_description')
     }
     logger.info(f'context: {context}')
     return render(request, 'online_store/index.html', context)
@@ -303,6 +304,7 @@ def edit_good(request: HttpRequest, good_pk: int) -> HttpResponse:
             if form.is_valid():
                 good.name = request.POST["title"]
                 good.description = request.POST["description"]
+
                 good.price = request.POST["price"]
                 good.amount = request.POST["quantity"]
                 if "image" in request.FILES:
@@ -315,9 +317,9 @@ def edit_good(request: HttpRequest, good_pk: int) -> HttpResponse:
         form = EditGoodForm(
             initial={
                 "title": good.name,
-                "description": good.description,
+                "description": good.product_description,
                 "price": good.price,
-                "quantity": good.amount,
+                "quantity": good.quantity_product,
             },
         )
     context = {

@@ -24,11 +24,7 @@
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
     <open-files>
-      <object connection-id="279bfa22-87d0-4a79-9a02-3ff44793d6ac" object-ref="schemas/main/tables/sqlite_sequence" />
-      <object connection-id="279bfa22-87d0-4a79-9a02-3ff44793d6ac" object-ref="schemas/main/tables/online_store_goods" />
-      <object connection-id="279bfa22-87d0-4a79-9a02-3ff44793d6ac" object-ref="schemas/main/tables/online_store_order_goods" />
-      <object connection-id="279bfa22-87d0-4a79-9a02-3ff44793d6ac" object-ref="schemas/main/tables/online_store_order" />
-      <object connection-id="279bfa22-87d0-4a79-9a02-3ff44793d6ac" object-ref="schemas/main/tables/online_store_image" />
+      <object connection-id="279bfa22-87d0-4a79-9a02-3ff44793d6ac" object-ref="schemas/main/tables/auth_user" />
     </open-files>
   </component>
   <component name="DBNavigator.Project.DatabaseSessionManager">
@@ -40,6 +36,7 @@
     <filter-actions connection-id="4e87f4f3-0cab-4f64-8555-3ad6d3e37674" dataset="main.shop_app_order" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="279bfa22-87d0-4a79-9a02-3ff44793d6ac" dataset="main.hw2_goods" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="279bfa22-87d0-4a79-9a02-3ff44793d6ac" dataset="main.online_store_order" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="279bfa22-87d0-4a79-9a02-3ff44793d6ac" dataset="main.auth_user" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="279bfa22-87d0-4a79-9a02-3ff44793d6ac" dataset="main.sqlite_sequence" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="279bfa22-87d0-4a79-9a02-3ff44793d6ac" dataset="main.hw2_order_goods" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="279bfa22-87d0-4a79-9a02-3ff44793d6ac" dataset="main.online_store_goods" active-filter-id="EMPTY_FILTER" />

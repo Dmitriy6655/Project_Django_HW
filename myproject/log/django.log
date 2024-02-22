@@ -18,3 +18,574 @@ INFO 2024-02-01 19:31:46,768 basehttp 14388 14568 "GET / HTTP/1.1" 200 630
 INFO 2024-02-01 19:31:54,390 basehttp 14388 18320 "GET / HTTP/1.1" 200 630
 INFO 2024-02-01 19:33:34,266 basehttp 14388 11748 "GET /about/ HTTP/1.1" 200 790
 INFO 2024-02-01 19:59:49,080 autoreload 17272 2664 Watching for file changes with StatReloader
+INFO 2024-02-08 22:40:12,600 autoreload 16448 11956 Watching for file changes with StatReloader
+INFO 2024-02-08 22:44:36,002 autoreload 17652 6600 Watching for file changes with StatReloader
+INFO 2024-02-08 22:46:47,062 autoreload 17652 6600 C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\urls.py changed, reloading.
+INFO 2024-02-08 22:46:47,617 autoreload 10396 6768 Watching for file changes with StatReloader
+INFO 2024-02-08 22:51:10,543 autoreload 10396 6768 C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\urls.py changed, reloading.
+INFO 2024-02-08 22:51:11,154 autoreload 13256 16608 Watching for file changes with StatReloader
+INFO 2024-02-08 22:52:18,915 autoreload 13256 16608 C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\urls.py changed, reloading.
+INFO 2024-02-08 22:52:19,484 autoreload 10908 9896 Watching for file changes with StatReloader
+INFO 2024-02-08 22:52:44,882 autoreload 10908 9896 C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\urls.py changed, reloading.
+INFO 2024-02-08 22:52:45,441 autoreload 4228 18084 Watching for file changes with StatReloader
+INFO 2024-02-08 22:54:00,518 autoreload 4228 18084 C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\urls.py changed, reloading.
+INFO 2024-02-08 22:54:01,138 autoreload 17692 6200 Watching for file changes with StatReloader
+INFO 2024-02-08 22:58:02,304 autoreload 17692 6200 C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\views.py changed, reloading.
+INFO 2024-02-08 22:58:03,053 autoreload 12468 5252 Watching for file changes with StatReloader
+INFO 2024-02-08 22:59:16,167 autoreload 12468 5252 C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\urls.py changed, reloading.
+INFO 2024-02-08 22:59:16,725 autoreload 16120 2532 Watching for file changes with StatReloader
+INFO 2024-02-08 22:59:45,183 autoreload 16120 2532 C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\urls.py changed, reloading.
+INFO 2024-02-08 22:59:45,742 autoreload 14008 5660 Watching for file changes with StatReloader
+INFO 2024-02-08 23:00:16,296 autoreload 14008 5660 C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\urls.py changed, reloading.
+INFO 2024-02-08 23:00:16,850 autoreload 13132 15948 Watching for file changes with StatReloader
+INFO 2024-02-08 23:00:26,656 autoreload 13132 15948 C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\urls.py changed, reloading.
+INFO 2024-02-08 23:00:27,286 autoreload 13364 14760 Watching for file changes with StatReloader
+INFO 2024-02-08 23:00:46,463 autoreload 13364 14760 C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\urls.py changed, reloading.
+INFO 2024-02-08 23:00:47,084 autoreload 7732 9344 Watching for file changes with StatReloader
+INFO 2024-02-08 23:01:37,295 autoreload 7732 9344 C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\urls.py changed, reloading.
+INFO 2024-02-08 23:01:37,859 autoreload 18188 13468 Watching for file changes with StatReloader
+INFO 2024-02-08 23:03:07,468 autoreload 18188 13468 C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\urls.py changed, reloading.
+INFO 2024-02-08 23:03:08,049 autoreload 16908 6004 Watching for file changes with StatReloader
+INFO 2024-02-08 23:06:34,008 autoreload 16908 6004 C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\views.py changed, reloading.
+INFO 2024-02-08 23:06:34,606 autoreload 2656 13664 Watching for file changes with StatReloader
+INFO 2024-02-08 23:06:53,701 autoreload 2656 13664 C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\urls.py changed, reloading.
+INFO 2024-02-08 23:06:54,289 autoreload 12512 11892 Watching for file changes with StatReloader
+INFO 2024-02-08 23:07:37,231 autoreload 12512 11892 C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\urls.py changed, reloading.
+INFO 2024-02-08 23:07:37,802 autoreload 15320 16764 Watching for file changes with StatReloader
+ERROR 2024-02-08 23:08:19,301 log 15320 4776 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\views.py", line 34, in all_clients
+    return render(
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: hw3/index.html
+ERROR 2024-02-08 23:08:19,303 basehttp 15320 4776 "GET / HTTP/1.1" 500 86643
+ERROR 2024-02-08 23:08:24,152 log 15320 4776 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\views.py", line 34, in all_clients
+    return render(
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: hw3/index.html
+ERROR 2024-02-08 23:08:24,155 basehttp 15320 4776 "GET / HTTP/1.1" 500 86369
+WARNING 2024-02-08 23:08:27,929 log 15320 4776 Not Found: /favicon.ico
+WARNING 2024-02-08 23:08:27,930 basehttp 15320 4776 "GET /favicon.ico HTTP/1.1" 404 2392
+ERROR 2024-02-08 23:10:54,352 log 15320 4776 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\views.py", line 34, in all_clients
+    return render(
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: hw3/index.html
+ERROR 2024-02-08 23:10:54,354 basehttp 15320 4776 "GET / HTTP/1.1" 500 86506
+INFO 2024-02-09 08:59:43,945 autoreload 13108 11672 Watching for file changes with StatReloader
+WARNING 2024-02-09 09:02:09,444 log 13108 8360 Not Found: /favicon.ico
+WARNING 2024-02-09 09:02:09,445 basehttp 13108 8360 "GET /favicon.ico HTTP/1.1" 404 2392
+WARNING 2024-02-09 09:02:09,512 log 13108 11028 Not Found: /favicon.ico
+WARNING 2024-02-09 09:02:09,513 basehttp 13108 11028 "GET /favicon.ico HTTP/1.1" 404 2392
+ERROR 2024-02-09 09:02:53,136 log 13108 18428 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\views.py", line 34, in all_clients
+    return render(
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: hw3/index.html
+ERROR 2024-02-09 09:02:53,142 basehttp 13108 18428 "GET / HTTP/1.1" 500 86069
+INFO 2024-02-09 09:05:33,401 autoreload 952 2848 Watching for file changes with StatReloader
+ERROR 2024-02-09 09:05:38,010 log 952 5868 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\views.py", line 34, in all_clients
+    return render(
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: hw3/index.html
+ERROR 2024-02-09 09:05:38,013 basehttp 952 5868 "GET / HTTP/1.1" 500 86206
+INFO 2024-02-09 09:07:59,149 autoreload 13432 8092 Watching for file changes with StatReloader
+ERROR 2024-02-09 09:08:03,157 log 13432 5188 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\views.py", line 34, in all_clients
+    return render(
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: hw3/index.html
+ERROR 2024-02-09 09:08:03,161 basehttp 13432 5188 "GET / HTTP/1.1" 500 86206
+ERROR 2024-02-09 09:08:04,703 log 13432 5188 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\views.py", line 34, in all_clients
+    return render(
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: hw3/index.html
+ERROR 2024-02-09 09:08:04,706 basehttp 13432 5188 "GET / HTTP/1.1" 500 86206
+WARNING 2024-02-09 09:54:51,154 log 13432 3728 Not Found: /get_client_goods/
+WARNING 2024-02-09 09:54:51,155 basehttp 13432 3728 "GET /get_client_goods/ HTTP/1.1" 404 2410
+INFO 2024-02-09 09:57:06,805 autoreload 13432 8092 C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\urls.py changed, reloading.
+INFO 2024-02-09 09:57:07,551 autoreload 13000 12020 Watching for file changes with StatReloader
+ERROR 2024-02-09 09:57:13,003 log 13000 8124 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\views.py", line 34, in all_clients
+    return render(
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: hw3/index.html
+ERROR 2024-02-09 09:57:13,006 basehttp 13000 8124 "GET / HTTP/1.1" 500 86343
+WARNING 2024-02-09 09:57:16,257 log 13000 8124 Not Found: /client_goods 1
+WARNING 2024-02-09 09:57:16,258 basehttp 13000 8124 "GET /client_goods%201 HTTP/1.1" 404 2562
+ERROR 2024-02-09 09:57:41,161 log 13000 8124 Internal Server Error: /client_goods/1
+Traceback (most recent call last):
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\views.py", line 19, in get_client_goods
+    client = user.objects.get(id=client_id)
+NameError: name 'user' is not defined
+ERROR 2024-02-09 09:57:41,163 basehttp 13000 8124 "GET /client_goods/1 HTTP/1.1" 500 70731
+INFO 2024-02-09 10:15:33,797 autoreload 13000 12020 C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\hw2\models.py changed, reloading.
+INFO 2024-02-09 10:15:35,571 autoreload 17652 14768 Watching for file changes with StatReloader
+INFO 2024-02-09 12:23:19,184 autoreload 16948 6944 Watching for file changes with StatReloader
+ERROR 2024-02-09 12:23:44,438 log 16948 11492 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\views.py", line 53, in all_clients
+    return render(
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: hw3/index.html
+ERROR 2024-02-09 12:23:44,441 basehttp 16948 11492 "GET / HTTP/1.1" 500 87175
+ERROR 2024-02-09 12:23:45,000 log 16948 11492 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\views.py", line 53, in all_clients
+    return render(
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: hw3/index.html
+ERROR 2024-02-09 12:23:45,004 basehttp 16948 11492 "GET / HTTP/1.1" 500 86901
+ERROR 2024-02-09 12:24:15,961 log 16948 11492 Internal Server Error: /client_goods/8
+Traceback (most recent call last):
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\views.py", line 48, in get_client_goods
+    return render(request, 'hw3/client_goods.html', context)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: hw3/client_goods.html
+ERROR 2024-02-09 12:24:15,963 basehttp 16948 11492 "GET /client_goods/8 HTTP/1.1" 500 87335
+INFO 2024-02-09 12:26:53,231 autoreload 9764 17464 Watching for file changes with StatReloader
+ERROR 2024-02-09 12:27:04,278 log 9764 12756 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\views.py", line 53, in all_clients
+    return render(
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: hw3/index.html
+ERROR 2024-02-09 12:27:04,281 basehttp 9764 12756 "GET / HTTP/1.1" 500 87175
+ERROR 2024-02-09 12:27:04,581 log 9764 12756 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\views.py", line 53, in all_clients
+    return render(
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: hw3/index.html
+ERROR 2024-02-09 12:27:04,586 basehttp 9764 12756 "GET / HTTP/1.1" 500 86901
+INFO 2024-02-09 12:29:54,799 autoreload 9764 17464 C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\views.py changed, reloading.
+INFO 2024-02-09 12:29:55,457 autoreload 18404 18348 Watching for file changes with StatReloader
+INFO 2024-02-09 12:31:47,865 autoreload 5172 10788 Watching for file changes with StatReloader
+INFO 2024-02-09 12:33:38,143 autoreload 5172 10788 C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\views.py changed, reloading.
+INFO 2024-02-09 12:33:38,707 autoreload 13540 1040 Watching for file changes with StatReloader
+INFO 2024-02-09 12:33:53,717 autoreload 13540 1040 C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\views.py changed, reloading.
+INFO 2024-02-09 12:33:54,317 autoreload 952 10076 Watching for file changes with StatReloader
+INFO 2024-02-09 12:34:12,457 autoreload 952 10076 C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\hw3\forms.py changed, reloading.
+INFO 2024-02-09 12:34:13,019 autoreload 17984 1592 Watching for file changes with StatReloader
+INFO 2024-02-09 12:34:26,913 autoreload 17984 1592 C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\hw3\forms.py changed, reloading.
+INFO 2024-02-09 12:34:27,479 autoreload 2648 17560 Watching for file changes with StatReloader
+INFO 2024-02-09 12:38:56,755 autoreload 1984 9860 Watching for file changes with StatReloader
+INFO 2024-02-09 12:39:13,856 autoreload 1984 9860 C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\views.py changed, reloading.
+INFO 2024-02-09 12:39:14,420 autoreload 11652 15416 Watching for file changes with StatReloader
+ERROR 2024-02-09 12:39:20,410 log 11652 16772 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\views.py", line 204, in all_clients
+    return render(
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: shop_app/index.html
+ERROR 2024-02-09 12:39:20,412 basehttp 11652 16772 "GET / HTTP/1.1" 500 87697
+ERROR 2024-02-09 12:39:25,018 log 11652 16772 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\views.py", line 204, in all_clients
+    return render(
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: shop_app/index.html
+ERROR 2024-02-09 12:39:25,022 basehttp 11652 16772 "GET / HTTP/1.1" 500 87697
+INFO 2024-02-09 12:40:52,895 autoreload 11652 15416 C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\views.py changed, reloading.
+INFO 2024-02-09 12:40:53,469 autoreload 14052 9952 Watching for file changes with StatReloader
+ERROR 2024-02-09 12:40:58,295 log 14052 10928 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\views.py", line 204, in all_clients
+    return render(
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: shop_app/index.html
+ERROR 2024-02-09 12:40:58,299 basehttp 14052 10928 "GET / HTTP/1.1" 500 87697
+INFO 2024-02-09 12:41:19,569 autoreload 14052 9952 C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\views.py changed, reloading.
+INFO 2024-02-09 12:41:20,174 autoreload 13468 13356 Watching for file changes with StatReloader
+ERROR 2024-02-09 12:41:23,180 log 13468 14944 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\views.py", line 204, in all_clients
+    return render(
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: shop_app/index.html
+ERROR 2024-02-09 12:41:23,183 basehttp 13468 14944 "GET / HTTP/1.1" 500 87697
+INFO 2024-02-09 14:13:55,700 autoreload 13468 13356 C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\views.py changed, reloading.
+INFO 2024-02-09 14:13:56,269 autoreload 9604 17096 Watching for file changes with StatReloader
+ERROR 2024-02-09 14:14:01,033 log 9604 14196 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\views.py", line 204, in all_clients
+    return render(
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: hw3/index.html
+ERROR 2024-02-09 14:14:01,037 basehttp 9604 14196 "GET / HTTP/1.1" 500 87627
+ERROR 2024-02-09 14:15:24,500 log 9604 14196 Internal Server Error: /client_goods/1
+Traceback (most recent call last):
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\views.py", line 135, in get_client_goods
+    return render(request, 'hw3/client_goods.html', context)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: hw3/client_goods.html
+ERROR 2024-02-09 14:15:24,502 basehttp 9604 14196 "GET /client_goods/1 HTTP/1.1" 500 87337
+ERROR 2024-02-09 14:21:12,619 log 9604 17252 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\views.py", line 204, in all_clients
+    return render(
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: hw3/index.html
+ERROR 2024-02-09 14:21:12,622 basehttp 9604 17252 "GET / HTTP/1.1" 500 87764
+ERROR 2024-02-09 14:21:12,985 log 9604 17252 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\views.py", line 204, in all_clients
+    return render(
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: hw3/index.html
+ERROR 2024-02-09 14:21:12,990 basehttp 9604 17252 "GET / HTTP/1.1" 500 87490
+ERROR 2024-02-09 14:21:15,372 log 9604 17252 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\views.py", line 204, in all_clients
+    return render(
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: hw3/index.html
+ERROR 2024-02-09 14:21:15,375 basehttp 9604 17252 "GET / HTTP/1.1" 500 87627
+INFO 2024-02-09 14:27:28,593 autoreload 9604 17096 C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\settings.py changed, reloading.
+INFO 2024-02-09 14:27:29,155 autoreload 6192 17228 Watching for file changes with StatReloader
+ERROR 2024-02-09 14:27:33,314 log 6192 2532 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader_tags.py", line 134, in render
+    compiled_parent = self.get_parent(context)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader_tags.py", line 131, in get_parent
+    return self.find_template(parent, context)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader_tags.py", line 109, in find_template
+    template, origin = context.template.engine.find_template(
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\views.py", line 204, in all_clients
+    return render(
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\backends\django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\backends\django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+ERROR 2024-02-09 14:27:33,320 basehttp 6192 2532 "GET / HTTP/1.1" 500 146955
+INFO 2024-02-09 14:34:10,682 autoreload 6192 17228 C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\myproject\views.py changed, reloading.
+INFO 2024-02-09 14:34:11,362 autoreload 7568 10048 Watching for file changes with StatReloader
+INFO 2024-02-09 15:03:01,161 autoreload 9616 18228 Watching for file changes with StatReloader
+INFO 2024-02-09 15:09:13,737 autoreload 13728 14280 Watching for file changes with StatReloader
+ERROR 2024-02-09 15:09:34,029 log 13728 964 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader_tags.py", line 134, in render
+    compiled_parent = self.get_parent(context)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader_tags.py", line 131, in get_parent
+    return self.find_template(parent, context)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader_tags.py", line 109, in find_template
+    template, origin = context.template.engine.find_template(
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\online_store\views.py", line 204, in all_clients
+    return render(
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\backends\django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\backends\django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+ERROR 2024-02-09 15:09:34,036 basehttp 13728 964 "GET / HTTP/1.1" 500 143853
+INFO 2024-02-09 15:15:59,486 autoreload 5024 13476 Watching for file changes with StatReloader
+ERROR 2024-02-09 15:16:03,599 log 5024 11300 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader_tags.py", line 134, in render
+    compiled_parent = self.get_parent(context)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader_tags.py", line 131, in get_parent
+    return self.find_template(parent, context)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader_tags.py", line 109, in find_template
+    template, origin = context.template.engine.find_template(
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\Project_Django_HW\myproject\online_store\views.py", line 204, in all_clients
+    return render(
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\backends\django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "C:\Users\Òèìîôåé\Desktop\TIMOFEY\Ó×ÅÁÀ GB\Python\ÑÏÅÖÈÀËÈÇÀÖÈß 2 ãîä\DJANGO\HW\venv\lib\site-packages\django\template\backends\django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+ERROR 2024-02-09 15:16:03,605 basehttp 5024 11300 "GET / HTTP/1.1" 500 143853
